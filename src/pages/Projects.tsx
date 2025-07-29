@@ -22,7 +22,7 @@ const Projects: React.FC = () => {
         'Machine Learning web app recommends movies by similarity, with interactive UI and real-time poster display',
       image: "https://i.postimg.cc/j2BM83V7/1-leu-I7f-Vke-Or-KAIGOOj-T9-A.png",
       tags: ['python','scikit-learn','Streamlit','HTML/CSS','Jupyter Notebook','Pandas','TMDb API','Numpy'],
-      githubUrl: 'https://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi/MovieRecommendationSystem',
     },
     {
       id: 1,
@@ -31,7 +31,7 @@ const Projects: React.FC = () => {
         'Machine Learning Model for Predicting Laptop Prices.',
       image: "https://i.postimg.cc/L5kVT9Vr/dataset-cover.jpg",
       tags: ['python','scikit-learn','Flask','HTML/CSS','Jupyter Notebook','Pandas','Numpy'],
-      githubUrl: 'https://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi/Laptop-Price-Predictor',
     },
      {
       id: 5,
@@ -40,7 +40,7 @@ const Projects: React.FC = () => {
         'Real-time hand landmark detection & visualization from webcam and Automatically saves annotated images',
       image: "https://i.postimg.cc/tJn5Vd1C/1-s2-0-S0031320319301724-gr1.jpg",
       tags: ['python','MediaPipe','OpenCV','Jupyter Notebook','Numpy'],
-      githubUrl: 'https://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi/AI-Hand-Pose-Estimation',
     },
      {
       id: 3,
@@ -49,7 +49,7 @@ const Projects: React.FC = () => {
         'Created a mobile app to track income, expense, and budgeting goals.',
       image: "https://i.postimg.cc/gkPS65KC/data-information-report-statistics-strategy-concept.jpg",
       tags: ['Android Studio (Native Android with Kotlin)'],
-      githubUrl: 'https://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi/Personal-Finance-Tracker-',
     },
     {
       id: 4,
@@ -58,7 +58,7 @@ const Projects: React.FC = () => {
         'Included navigation controls and dynamic image rendering using JavaScript.',
       image: "https://i.postimg.cc/g07pHwPy/Screenshot-2025-07-05-at-14-46-51.png",
       tags: ['HTML', 'CSS', 'JavaScript'],
-      githubUrl: 'https://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi/Image_Slider',
     },
     {
       id: 6,
@@ -67,7 +67,7 @@ const Projects: React.FC = () => {
         'Developed a web application that detects fake news using machine learning.',
       image: "https://i.postimg.cc/wML9v9ZX/new-it-rules-prevent-fake-news-misuse-of-freedom-of-press-centre-tells-delhi-high-court-jpg.webp",
       tags: ['Python', 'scikit-learn', 'Flask', 'Jupyter Notebook', 'Pandas' , 'HTML/CSS'],
-      githubUrl: 'https://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi/Fake_News_Detection',
     },
      {
       id: 7,
@@ -76,7 +76,7 @@ const Projects: React.FC = () => {
         'Implemented CRUD operations, role-based access and optimized SQL queries for efficient data handling and reporting.',
       image: "https://i.postimg.cc/rm51Nrt7/futuristic-technology-concept.jpg", // ✅ fixed path
       tags: ['PHP', 'MySQL', 'JavaScript', 'CSS', 'HTML'],
-      githubUrl: 'https://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi/Online-Stock-Managment-System-',
     },
     {
       id: 8,
@@ -85,7 +85,7 @@ const Projects: React.FC = () => {
         'Developed a full-stack e-commerce platform with product listings, user authentication, order management and integrated cart functionality, payment simulations and dynamic product filtering.',
       image: "https://i.postimg.cc/zvcGLdGN/mid-section-woman-holding-meringue-sugar-cubes-three-tier-serving-tray-wooden-table.jpg",
       tags: ['MongoDB', 'Express.js', 'React.js', 'Node.js'],
-      githubUrl: 'https://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi/Online-Cake-Ordering-System',
     },
     
   ];
