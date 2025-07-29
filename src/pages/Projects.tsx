@@ -20,7 +20,7 @@ const Projects: React.FC = () => {
       title: 'Movie Recommendation System',
       description:
         'Machine Learning web app recommends movies by similarity, with interactive UI and real-time poster display',
-      image: "public/1_leuI7fVkeOrKAIGOOj_T9A.png",
+      image: "https://i.postimg.cc/j2BM83V7/1-leu-I7f-Vke-Or-KAIGOOj-T9-A.png",
       tags: ['python','scikit-learn','Streamlit','HTML/CSS','Jupyter Notebook','Pandas','TMDb API','Numpy'],
       githubUrl: 'https://github.com/Shashindi?tab=repositories',
     },
@@ -29,63 +29,63 @@ const Projects: React.FC = () => {
       title: 'Laptop Price Predictor',
       description:
         'Machine Learning Model for Predicting Laptop Prices.',
-      image: "public/dataset-cover.jpg",
+      image: "https://i.postimg.cc/L5kVT9Vr/dataset-cover.jpg",
       tags: ['python','scikit-learn','Flask','HTML/CSS','Jupyter Notebook','Pandas','Numpy'],
-      githubUrl: 'ttps://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi?tab=repositories',
     },
      {
       id: 5,
       title: 'AI Hand Pose Estimation ',
       description:
         'Real-time hand landmark detection & visualization from webcam and Automatically saves annotated images',
-      image: "public/1-s2.0-S0031320319301724-gr1.jpg",
+      image: "https://i.postimg.cc/tJn5Vd1C/1-s2-0-S0031320319301724-gr1.jpg",
       tags: ['python','MediaPipe','OpenCV','Jupyter Notebook','Numpy'],
-      githubUrl: 'ttps://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi?tab=repositories',
     },
      {
       id: 3,
       title: 'Finance Tracker App',
       description:
         'Created a mobile app to track income, expense, and budgeting goals.',
-      image: "public/data-information-report-statistics-strategy-concept.jpg",
+      image: "https://i.postimg.cc/gkPS65KC/data-information-report-statistics-strategy-concept.jpg",
       tags: ['Android Studio (Native Android with Kotlin)'],
-      githubUrl: 'ttps://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi?tab=repositories',
     },
     {
       id: 4,
       title: 'Image Slider App',
       description:
         'Included navigation controls and dynamic image rendering using JavaScript.',
-      image: "public/Screenshot 2025-07-05 at 14.46.51.png",
+      image: "https://i.postimg.cc/g07pHwPy/Screenshot-2025-07-05-at-14-46-51.png",
       tags: ['HTML', 'CSS', 'JavaScript'],
-      githubUrl: 'ttps://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi?tab=repositories',
     },
     {
       id: 6,
       title: 'Fake News Detection System',
       description:
         'Developed a web application that detects fake news using machine learning.',
-      image: "public/new-it-rules-prevent-fake-news-misuse-of-freedom-of-press-centre-tells-delhi-high-court.jpg.webp",
+      image: "https://i.postimg.cc/wML9v9ZX/new-it-rules-prevent-fake-news-misuse-of-freedom-of-press-centre-tells-delhi-high-court-jpg.webp",
       tags: ['Python', 'scikit-learn', 'Flask', 'Jupyter Notebook', 'Pandas' , 'HTML/CSS'],
-      githubUrl: 'ttps://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi?tab=repositories',
     },
      {
       id: 7,
       title: 'Online Stock Management System (Group Project)',
       description:
         'Implemented CRUD operations, role-based access and optimized SQL queries for efficient data handling and reporting.',
-      image: "public/futuristic-technology-concept.jpg", // ✅ fixed path
+      image: "https://i.postimg.cc/rm51Nrt7/futuristic-technology-concept.jpg", // ✅ fixed path
       tags: ['PHP', 'MySQL', 'JavaScript', 'CSS', 'HTML'],
-      githubUrl: 'ttps://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi?tab=repositories',
     },
     {
       id: 8,
       title: 'Online Cake Ordering Management System (Group Project)',
       description:
         'Developed a full-stack e-commerce platform with product listings, user authentication, order management and integrated cart functionality, payment simulations and dynamic product filtering.',
-      image: "public/mid-section-woman-holding-meringue-sugar-cubes-three-tier-serving-tray-wooden-table.jpg",
+      image: "https://i.postimg.cc/zvcGLdGN/mid-section-woman-holding-meringue-sugar-cubes-three-tier-serving-tray-wooden-table.jpg",
       tags: ['MongoDB', 'Express.js', 'React.js', 'Node.js'],
-      githubUrl: 'ttps://github.com/Shashindi?tab=repositories',
+      githubUrl: 'https://github.com/Shashindi?tab=repositories',
     },
     
   ];
