@@ -103,7 +103,7 @@ const Projects: React.FC = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Please check out all my projects from here: ttps://github.com/Shashindi?tab=repositories
+              Please check out all my projects from here: https://github.com/Shashindi?tab=repositories
             </a>
           </p>
         </div>
