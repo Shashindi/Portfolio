@@ -99,7 +99,7 @@ const Projects: React.FC = () => {
           </h1>
           <p className="text-md text-primary-600 dark:text-primary-400 underline underline-offset-4 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">
             <a
-              href="ttps://github.com/Shashindi?tab=repositories"
+              href="https://github.com/Shashindi?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
             >
