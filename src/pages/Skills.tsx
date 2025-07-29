@@ -20,7 +20,7 @@ const skills: Skill[] = [
   { name: 'Python', level: 90, category: 'Programming' },
   { name: 'R', level: 80, category: 'Programming' },
   { name: 'MYSQL', level: 85, category: 'Database' },
-   { name: 'MongoDB', level: 85, category: 'Database' },
+  { name: 'MongoDB', level: 85, category: 'Database' },
   { name: 'Machine Learning', level: 85, category: 'Data Science' },
   { name: 'Statistics & Probability', level: 85, category: 'Data Science' },
   { name: 'Hypothesis Testing', level: 85, category: 'Data Science' },
